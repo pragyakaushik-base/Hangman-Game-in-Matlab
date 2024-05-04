@@ -1,0 +1,16 @@
+
+
+% testing of step 6 --- In description
+
+While loop functions as expected after a few alterations to the program. 
+
+Case 1 - When you guess the word correctly before all your lives used. 
+It works as expected, once you guess all the letters such that no blanks are left, 
+and you have more than or equal to one (last) life left, the user wins. 
+Th e while loop breaks.
+
+Case 2 - When no more lives are left and you have not managed to guess the word. 
+The program works as expected. The while loop continues till the user has 
+zero lives and hasn't guess word yet, then the program declares that the user 
+has lost. 
+

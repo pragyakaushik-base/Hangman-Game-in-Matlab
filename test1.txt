@@ -1,0 +1,12 @@
+
+% testing of step 1
+
+Outputs of the program, when run for the first 5 times
+
+Tango
+Kilo
+Romeo
+Echo
+Sierra 
+
+Actual outputs are random just as expected. 

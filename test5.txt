@@ -1,0 +1,26 @@
+
+% testing of step 5
+
+test case 1
+randomly chosen word: golf
+wrong guessed so far: j  (was purposefully set)
+guessed letter: j
+expected output: You have already guessed 'j' before. You don't loose any lives. Lives left: 7.
+actual output: You have already guessed 'j' before. You don't loose any lives. Lives left: 7.
+
+test case 2
+randomly chosen word: victor
+wrong guessed so far: j  (was purposefully set)
+guessed letter: c
+expected output: You have guessed 'c', it's a correct guess. You don't loose any life. Lives left: 7.
+actual output: You have guessed 'c', it's a correct guess. You don't loose any life. Lives left: 7.
+
+test case 2
+randomly chosen word: 
+wrong guessed so far: j  (was purposefully set - hence didn't impact numLives)
+guessed letter: m
+expected output: You have guessed 'm', it's not in the word. You lose a life. Lives left: 6.
+actual output: You have guessed 'm', it's not in the word. You lose a life. Lives left: 6.
+
+
+

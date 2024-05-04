@@ -1,0 +1,25 @@
+
+
+% testing of step 3
+
+Inputs                          Expected output       Actual output
+the level input
+    Easy                        as expected - program works fine 
+    EASY                        as expected - program works fine
+    HARD                        as expected - program works fine
+    Hard                        as expected - program works fine
+    easy                        as expected - program works fine
+    hard                        as expected - program works fine
+
+the while loop
+    eatsy                       as expected - while loop triggered
+    hardd                       as expected - while loop triggered
+    eas                         as expected - while loop triggered
+    har                         as expected - while loop triggered
+
+the guess letter input
+    hpusa                           h                    h
+    invf                            i                    i
+    USVD                            u                    u
+
+

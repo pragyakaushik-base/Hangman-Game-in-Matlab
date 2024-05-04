@@ -1,0 +1,19 @@
+
+
+% testing of step 2
+
+case 1
+random word selected (rand_word): Hotel
+expected output: _ _ _ _ _ 
+actual output: _ _ _ _ _ 
+
+case 2
+random word selected (rand_word): Victor
+expected output: _ _ _ _ _ _
+actual output: _ _ _ _ _ _
+
+case 3
+random word selected (rand_word): India
+expected output: _ _ _ _ _
+actual output: _ _ _ _ _ 
+

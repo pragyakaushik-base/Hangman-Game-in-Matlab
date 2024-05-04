@@ -1,0 +1,9 @@
+
+
+
+% testing of step 7 --- In description
+
+Pictures pop-up as expected - when the function hangmanGallowLevel 
+is called and the user loses a life. 
+Otherwise the rest of the program is and works the same as in the 
+previous step and test. 

@@ -1,0 +1,19 @@
+% testing of step 4
+
+test case 1
+randomly chosen word: november
+guessed letter: a
+expected output: You entered 'a'. It's a wrong guess: _ _ _ _ _ _ _ _ 
+actual output: You entered 'a'. It's a wrong guess: _ _ _ _ _ _ _ _ 
+
+test case 2
+randomly chosen word: golf
+guessed letter: o
+expected output: You entered 'o'. It's a correct guess: _ o _ _ 
+actual output: You entered 'o'. It's a correct guess: _ o _ _ 
+
+test case 3
+randomly chosen word: sierra
+guessed letter: o
+expected output: You entered 'r'. It's a correct guess: _ _ _ r r _ 
+actual output: You entered 'r'. It's a correct guess: _ _ _ r r _ 
